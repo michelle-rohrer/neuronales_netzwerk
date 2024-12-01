@@ -8,8 +8,8 @@ The objective of this assignment was to gain a comprehensive understanding of nu
 
 The process involved several steps:
 
-    Data Exploration: Loading and analyzing the MNIST dataset to understand its structure and distribution using basic visualization techniques.
-    Implementation: Designing a custom neural network, including linear layers with forward-pass, backward-pass, and parameter update functionalities implemented manually with NumPy.
-    Evaluation and Training: Training the network to identify specific digits and experimenting with different configurations, such as learning rates and hidden layer sizes, to optimize performance.
-    Advanced Network Design: Extending the network to include multiple hidden layers and outputs for classifying all digits in the dataset.
-    Documentation and Reflection: Maintaining a detailed learning journal to document progress, challenges, and insights, along with transparent usage and reflection on AI tools like ChatGPT for assistance.
+Data Exploration: Loading and analyzing the MNIST dataset to understand its structure and distribution using basic visualization techniques.
+Implementation: Designing a custom neural network, including linear layers with forward-pass, backward-pass, and parameter update functionalities implemented manually with NumPy.
+Evaluation and Training: Training the network to identify specific digits and experimenting with different configurations, such as learning rates and hidden layer sizes, to optimize performance.
+Advanced Network Design: Extending the network to include multiple hidden layers and outputs for classifying all digits in the dataset.
+Documentation and Reflection: Maintaining a detailed learning journal to document progress, challenges, and insights, along with transparent usage and reflection on AI tools like ChatGPT for assistance.
